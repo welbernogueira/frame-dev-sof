@@ -1,0 +1,6 @@
+
+
+document.getElementById('cadastroEndereco').addEventListener('submit', function(event) {
+    event.preventDefault(); 
+    alert('Cadastro realizado com sucesso!');
+});
